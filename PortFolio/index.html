@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohd Anas | CS Engineer Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="particles"></div>
+
+<nav>
+    <div class="logo"><code>./anas_dev</code></div>
+    <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="https://github.com/mohdanas-hash" target="_blank">GitHub</a></li>
+    </ul>
+    <button id="themeToggle">🌙</button>
+</nav>
+
+<header>
+    <div class="header-content">
+        <h1 class="glow">Mohd Anas</h1>
+        <p class="typing">Computer Science Engineer | Data Science Strategist | AI Explorer</p>
+    </div>
+</header>
+
+<main>
+    <section id="about" class="glass">
+        <h2><span class="accent-text">01.</span> Professional Summary</h2>
+        <p>B.Tech Computer Science student specializing in <strong>Data Science</strong>. Focused on building scalable, data-driven systems and solving real-world problems with analytical precision.</p>
+    </section>
+
+    <section id="skills" class="glass">
+        <h2><span class="accent-text">02.</span> Technical Stack</h2>
+        <div class="skills-grid">
+            <div class="skill">
+                <div class="skill-info"><span>Python</span><span>90%</span></div>
+                <div class="bar"><div class="progress" style="width: 90%;"></div></div>
+            </div>
+            <div class="skill">
+                <div class="skill-info"><span>C++</span><span>80%</span></div>
+                <div class="bar"><div class="progress" style="width: 80%;"></div></div>
+            </div>
+            <div class="skill">
+                <div class="skill-info"><span>ML & Data Science</span><span>75%</span></div>
+                <div class="bar"><div class="progress" style="width: 75%;"></div></div>
+            </div>
+            <div class="skill">
+                <div class="skill-info"><span>DSA</span><span>85%</span></div>
+                <div class="bar"><div class="progress" style="width: 85%;"></div></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="projects" class="glass">
+        <h2><span class="accent-text">03.</span> Featured Projects</h2>
+        <div class="project-grid">
+            <div class="project-card">
+                <div class="card-tag">FinTech</div>
+                <h3>Smart Expense Intel</h3>
+                <p>Predictive analytics platform with financial forecasting models.</p>
+                <div class="tech-tags"><span>Pandas</span><span>Scikit-Learn</span></div>
+            </div>
+            <div class="project-card">
+                <div class="card-tag">NLP</div>
+                <h3>AI Resume Engine</h3>
+                <p>NLP-based ATS scoring system using vector similarity algorithms.</p>
+                <div class="tech-tags"><span>Python</span><span>NLTK</span></div>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience" class="glass">
+        <h2><span class="accent-text">04.</span> Education</h2>
+        <div class="timeline">
+            <div class="timeline-item">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <h3>B.Tech in Computer Science</h3>
+                    <p class="timeline-date">2023 — Present</p>
+                    <p>Focusing on Data Science and Machine Learning at B.Tech level.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="glass">
+        <h2><span class="accent-text">05.</span> Terminal Contact</h2>
+        <div class="terminal-contact">
+            <p><span>anas@engineer:~$</span> <a href="mailto:mohd.anas.gt3@gmail.com">email --send mohd.anas.gt3@gmail.com</a></p>
+            <p><span>anas@engineer:~$</span> <a href="https://github.com/mohdanas-hash" target="_blank">github --view /mohdanas-hash</a></p>
+            <p><span>anas@engineer:~$</span> <a href="https://www.linkedin.com/in/mohd-anas-64a1312a3/" target="_blank">linkedin --view /mohd-anas</a></p>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <p>© 2026 Mohd Anas | Engineered for the Future</p>
+</footer>
+
+<script>
+    const toggleBtn = document.getElementById("themeToggle");
+    toggleBtn.onclick = function() {
+        document.body.classList.toggle("light-mode");
+        toggleBtn.textContent = document.body.classList.contains("light-mode") ? "☀️" : "🌙";
+    };
+</script>
+
+</body>
+</html>
