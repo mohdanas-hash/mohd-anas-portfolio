@@ -1,2 +1,2 @@
 # mohd-anas-portfolio
-All my details are available here.
+"My portfolio contains a collection of coding projects and problem‑solving exercises that highlight my technical foundation in C++ programming, data structures, and algorithms. It showcases hands‑on practice with platforms like LeetCode and HackerRank, along with version control and collaboration skills using Git, GitHub, and VS Code. The portfolio also reflects my growing interest in backend development with Node.js, as well as explorations into machine learning, Hadoop, and computer networks. Beyond technical skills, it demonstrates my discipline, adaptability, and commitment to continuous learning, with a focus on building a strong profile for internships and career opportunities in top tech companies."
