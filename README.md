@@ -1,2 +1,16 @@
-# mohd-anas-portfolio
-"My portfolio contains a collection of coding projects and problem‑solving exercises that highlight my technical foundation in C++ programming, data structures, and algorithms. It showcases hands‑on practice with platforms like LeetCode and HackerRank, along with version control and collaboration skills using Git, GitHub, and VS Code. The portfolio also reflects my growing interest in backend development with Node.js, as well as explorations into machine learning, Hadoop, and computer networks. Beyond technical skills, it demonstrates my discipline, adaptability, and commitment to continuous learning, with a focus on building a strong profile for internships and career opportunities in top tech companies."
+# 🚀 Mohd Anas | Portfolio
+
+Welcome to my portfolio! This repository highlights my technical foundation, coding projects, and problem-solving journey.
+
+## 🛠️ Tech Stack & Skills
+* **Languages:** C++, HTML, CSS
+* **Core Concepts:** Data Structures & Algorithms (DSA), Computer Networks
+* **Tools & Platforms:** Git, GitHub, VS Code, LeetCode, HackerRank
+* **Interests:** Backend Development (Node.js), Machine Learning, Hadoop
+
+## 📂 What's Inside?
+* **[PortFolio](https://github.com/mohdanas-hash/mohd-anas-portfolio/tree/main/PortFolio):** Core project files and problem-solving exercises.
+* **Resume:** My latest [MOHD_ANAS_JTG.pdf](https://github.com/mohdanas-hash/mohd-anas-portfolio/blob/main/MOHD_ANAS_JTG.pdf) is attached directly to the repository for quick access.
+
+---
+🎯 *Focusing on building a strong profile for internships and career opportunities in top tech companies.*
