@@ -10,7 +10,7 @@ Welcome to my portfolio! This repository highlights my technical foundation, cod
 
 ## 📂 What's Inside?
 * **[PortFolio](https://github.com/mohdanas-hash/mohd-anas-portfolio/tree/main/PortFolio):** Core project files and problem-solving exercises.
-* **Resume:** My latest [MOHD_ANAS_JTG.pdf](https://github.com/mohdanas-hash/mohd-anas-portfolio/blob/main/MOHD_ANAS_JTG.pdf) is attached directly to the repository for quick access.
+* **Resume:** My latest [MOHD_ANAS_Resunme_HT.pdf](https://github.com/mohdanas-hash/mohd-anas-portfolio/blob/main/MOHD_ANAS_JTG.pdf) is attached directly to the repository for quick access.
 
 ---
 🎯 *Focusing on building a strong profile for internships and career opportunities in top tech companies.*
